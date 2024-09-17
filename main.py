@@ -5,7 +5,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 from decouple import config
-from fasthtml.common import *
+# from fasthtml.common import *
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.chrome.options import Options
